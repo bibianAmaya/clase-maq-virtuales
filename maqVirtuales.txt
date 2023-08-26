@@ -1,10 +1,20 @@
 1.Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
-Los lenguajes de programacion pueden utilizarse en diferntes sistemas operativos, pero sus disponibilidad y compatibilidad pueden variar segun varios factore. Estos son: Implementacion del complilador/interprete, Dependencia del sistema operativo, Bibliotecas y APIs especificas del sistem, Compatibilidad de plataforma y requisitos de compilacion
+Los lenguajes de programacion pueden utilizarse en diferntes sistemas operativos, pero sus disponibilidad y compatibilidad pueden variar segun varios factore.
+Estos son: Implementacion del complilador/interprete, Dependencia del sistema operativo, Bibliotecas y APIs especificas del sistem, Compatibilidad de plataforma
+y requisitos de compilacion
+
 2. Que tipo de maquina virtual soporta virtualbox?
+Windows, Solaris, Linux, Mac os
 una hipervisor lo que significa que se ejecuta directamente en el hardware fisico de la computadora. 
 La otra es software de virtualizacion funciona como una aplicacion de software de virtualizacion que se ejecuta en un sistema operativo anfitrion existente.
+
 3. Funcion que cumple hypervisor en la virtualizacion?
-Permite crear y ejecutar de multiples maquinas en un solo servidor fisico. Su funcion principal es la de gestionar y controlar el acceso de la maquinas virtuales al hardware fisico de manera eficiente y aislada.
+Permite crear y ejecutar de multiples maquinas en un solo servidor fisico. Su funcion principal es la de gestionar y controlar el acceso de la maquinas virtuales
+al hardware fisico de manera eficiente y aislada.
+
 4. Si tengo una maquina virtual instalda, y una se rompe, esto afecta a las demas?, Por que?
-En un entorno de virtualizacion bien configurado y administrado, las maquinas virtuales estan disenadas para ser independientes y aisladas entre si. Sin embargo, es importante monitorear y administrar adeccuadamente las maquinas virtuales para evitar problemas de recursos, dependencias de software y errores de configuracion que puedean afectar a otras maquina virtuales en el mismo host. La virtualizacion proporciona un alto grado de aislameinto, pero la responsabilidad de la administraciona decuada recae en el usaruio o el administrador del entorno virtual.
+En un entorno de virtualizacion bien configurado y administrado, las maquinas virtuales estan disenadas para ser independientes y aisladas entre si.
+Sin embargo, es importante monitorear y administrar adeccuadamente las maquinas virtuales para evitar problemas de recursos, dependencias de software
+y errores de configuracion que puedean afectar a otras maquina virtuales en el mismo host. La virtualizacion proporciona un alto grado de aislameinto,
+pero la responsabilidad de la administraciona decuada recae en el usaruio o el administrador del entorno virtual.
 
